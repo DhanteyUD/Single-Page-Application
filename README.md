@@ -3,7 +3,9 @@
 To give the completed code a quick test-drive:
 
 1. Install Node.js
-2. Navigate to the project folder and run the following from a terminal:
+
+
+3. Navigate to the project folder and run the following from a terminal:
 
 
 <ul>
